@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "pjr_portablegadget_A172330", "pjr_portablegadget_A172330\pjr_portablegadget_A172330.vbproj", "{8DD7BAB4-B8C0-48DB-AD19-A9AB65455DBC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_UltronGadget_A172330", "Setup_UltronGadget_A172330\Setup_UltronGadget_A172330.vdproj", "{600670F7-5193-4098-9B05-5FF70EE9D964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DD7BAB4-B8C0-48DB-AD19-A9AB65455DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD7BAB4-B8C0-48DB-AD19-A9AB65455DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD7BAB4-B8C0-48DB-AD19-A9AB65455DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD7BAB4-B8C0-48DB-AD19-A9AB65455DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{600670F7-5193-4098-9B05-5FF70EE9D964}.Debug|Any CPU.ActiveCfg = Debug
+		{600670F7-5193-4098-9B05-5FF70EE9D964}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF829C9C-2AE8-43AE-B69C-FD44649E65CC}
+	EndGlobalSection
+EndGlobal
